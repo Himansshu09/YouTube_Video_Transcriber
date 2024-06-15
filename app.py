@@ -1,6 +1,6 @@
 import streamlit as st
 from dotenv import load_dotenv
-!pip install dotenv
+pip install dotenv
 
 
 load_dotenv() ##load all the environment variables
